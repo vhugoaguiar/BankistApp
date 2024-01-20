@@ -1,0 +1,8 @@
+# Unrelated Files folder
+unrelated_files/
+
+# Prettier config file
+.prettierrc
+
+# Lectures js file, not related to the app
+script-lectures.js
